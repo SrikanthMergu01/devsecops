@@ -1,4 +1,7 @@
 # DevSecOps Pipeline Implementation for Tic Tac Toe Game
+![image](https://github.com/user-attachments/assets/5d866c06-6a7d-4245-956e-b481f202d067)
+
+![image](https://github.com/user-attachments/assets/b0344f9e-3272-4cb3-8039-0fefa58d8b2f)
 
 ![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
 
